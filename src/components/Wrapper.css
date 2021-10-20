@@ -1,0 +1,8 @@
+.wrapper {
+    width: 340px;
+    height: 540px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(219,219,219);
+    background: radial-gradient(circle, rgba(219,219,219,1) 78%, rgba(184,181,181,1) 100%);
+  }
